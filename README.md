@@ -1,5 +1,5 @@
 # Metascience experiment history
-This repository contains anonymized data for a metascientific experiment on the influence of political preferences on historians' assessments of history abstracts currently under review.
+This repository contains anonymized data for a metascientific study on the influence of political preferences on historians' assessments of history abstracts published. You can find the paper [here](https://f1000research.com/articles/14-320/v1).
 
 # Abstract
 ## Background:

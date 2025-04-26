@@ -14,3 +14,8 @@ In an online experiment, 75 historians evaluated 17 fictitious contemporary hist
 The results revealed a significant interaction effect between an abstract’s political stance and historians’ political orientation, consistent with the observation that right-wing historians prefer conservative abstracts, left-wing historians prefer progressive abstracts, and moderate historians show no preference for either. Overall, participants preferred progressive abstracts, largely reflecting a majority of left-leaning historians in our sample. Moreover, after reconsidering their responses and providing FOR ratings, participants’ initial decisions did not significantly change. 
 ### Conclusions:
 Our study suggests that political preferences influence research evaluations and are not diminished by more deliberate processing, as demonstrated through the case study of historians.
+
+## Citation
+If you use the data or the code, please cite the paper as follows:
+
+Schiekiera, L., & Niemeyer, H. (2025). Political bias in historiography - an experimental investigation of preferences for publication as a function of political orientation. *F1000Research*. https://doi.org/10.12688/f1000research.160170.1
